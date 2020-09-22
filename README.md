@@ -1,5 +1,7 @@
 # filmwebsite
 
+Raoul heeft deze readme aangevuld.
+
 Dit is mijn eerste github
 
 ![Ilias Ilias](img/spirited_away.jpg)
